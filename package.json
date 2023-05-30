@@ -1,6 +1,6 @@
 {
-    "name": "react-native-reanimated-table",
-    "version": "0.0.2",
+    "name": "@dplus/rn-better-table",
+    "version": "0.0.1",
     "description": "📊 A React Native table component using react-native-reanimated and react-native-gesture-handler.",
     "main": "lib/commonjs/index",
     "react-native": "src/index.tsx",

@@ -5,6 +5,7 @@ import { Cell } from "./Cell";
 import { styles } from "./styles";
 import { TableRow } from "./TableRow";
 
+/* 收入 */
 function MoneyIn(props) {
     const moneyIn = [10010, 1111, 1111, 111, 11, 1, 111, 1, 100]
     const moneyInPercent = [11, 11, 1, 11, 1, 1, 1, 10]

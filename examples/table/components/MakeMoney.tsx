@@ -5,6 +5,7 @@ import { Cell } from "./Cell";
 import { styles } from "./styles";
 import { TableRow } from "./TableRow";
 
+/* 毛利 */
 function MoneyOut(props) {
 
     const moneyOut = [1000, 1111, 1111, 111, 11]

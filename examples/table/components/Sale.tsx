@@ -5,6 +5,7 @@ import { Cell } from "./Cell";
 import { styles } from "./styles";
 import { TableRow } from "./TableRow";
 
+/* 销售成本 */
 function MoneyOut(props) {
 
     const price = [1000, 1111, 1111, 111, 11, 1, 111]

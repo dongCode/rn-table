@@ -4,7 +4,7 @@ import { HEIGHT } from "./constants";
 import { Cell } from "./Cell";
 import { styles } from "./styles";
 import { TableRow } from "./TableRow";
-
+/* 经营分析 */
 function Operation(props) {
 
     const moneyOut = [1000, 1111, 1111, 111]
